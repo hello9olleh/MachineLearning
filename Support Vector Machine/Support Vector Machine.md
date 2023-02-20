@@ -26,7 +26,7 @@ The distance between Hyperplane and Supporting Vector
 
 </aside>
 
-![(Source — Medium.com)Class A and B are divided using Linear Decision Boundary](Images/Screenshot_2022-07-18_at_3.21.07_PM.png)
+![(Source — Medium.com)Class A and B are divided using Linear Decision Boundary](Images/image1.png)
 
 (Source — Medium.com)Class A and B are divided using Linear Decision Boundary
 
@@ -57,7 +57,7 @@ On combining the above 2 equations,
 
 $(W^TX+b)Y' \geq -1$
 
-![Source: [Medium.com](http://Medium.com)](Images/Untitled.png)
+![Source: [Medium.com](http://Medium.com)](Images/image2.png)
 
 Source: [Medium.com](http://Medium.com)
 
@@ -78,7 +78,7 @@ $\min[\frac{{||W||}^2}{2}]$
 
 ### Kernel
 
-![(Source: [Medium.com](http://Medium.com))Class A and B are separated using Non-Linear Function](Images/Untitled%201.png)
+![(Source: [Medium.com](http://Medium.com))Class A and B are separated using Non-Linear Function](Images/image3.png)
 
 (Source: [Medium.com](http://Medium.com))Class A and B are separated using Non-Linear Function
 
@@ -100,7 +100,7 @@ $K(X_a,X_b) = \displaystyle e^{-\displaystyle\gamma||X_a-X_b||^2}$
 
 Linearly Non-separable Data points are handled using **Non-Linear SVM**.
 
-![(Source — Medium.com)Class A and B are divided using Non-Linear Decision Boundary](Support%20Vector%20Machine%201d3402f7efcb4cbe926317922c60a703/Untitled%202.png)
+![(Source — Medium.com)Class A and B are divided using Non-Linear Decision Boundary](Images/image4.png)
 
 (Source — Medium.com)Class A and B are divided using Non-Linear Decision Boundary
 
