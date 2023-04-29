@@ -1,0 +1,1 @@
+The [Linear Regression](Linear%20Regression.pdf) is Compiled by me and @Divyanshu-Bhatt
